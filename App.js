@@ -1,6 +1,6 @@
 // Desenvolvido por Vinicius Augusto Ramos Bastos 
 // Em conjunto com 
-// Pedro Henrique Lopes
+// Pedro Henrique Lopes Martins
 
 import React, { useState, useEffect, useRef } from "react";
 import {
